@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1016870192751",
+    "project_id": "musicapp-d2021",
+    "storage_bucket": "musicapp-d2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016870192751:android:60cfccc9e146878503af9a",
+        "android_client_info": {
+          "package_name": "com.inomjon_muxtorov.audiopleyer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016870192751-figj8o029lomhef7fmejs2mdb9mnsufd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inomjon_muxtorov.audiopleyer",
+            "certificate_hash": "93af30cbabad931caaaa30b32fede15b568affd2"
+          }
+        },
+        {
+          "client_id": "1016870192751-e696bdidt0kljm5ssquesihhv5rarfrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSh5Aqn8mkKgu9bOHKcmQ4_Dabt7tn4hQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016870192751-e696bdidt0kljm5ssquesihhv5rarfrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
