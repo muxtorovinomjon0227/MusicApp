@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.khj1matov.audioplayer">
+    package="com.inomjon_muxtorov.audiopleyer">
    <application
         android:label="Player"
         android:name="${applicationName}"

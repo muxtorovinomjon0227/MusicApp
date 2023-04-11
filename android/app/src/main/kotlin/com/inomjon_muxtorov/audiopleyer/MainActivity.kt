@@ -1,4 +1,4 @@
-package com.khj1matov.audioplayer
+package com.inomjon_muxtorov.audiopleyer
 
 import io.flutter.embedding.android.FlutterActivity
 
